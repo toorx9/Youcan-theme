@@ -38,7 +38,7 @@ window.setTimeout(function(){
 }, 3000);
 
 if ( window.location.pathname == '/' ){
- $('section').first().css({background: "center 0 no-repeat url(https://i.ibb.co/BjNFkbw/my.png)"});
+ $('section').first().css({background: "center 0 no-repeat url(https://img.freepik.com/free-vector/hand-drawn-streetwear-illustration_23-2151236673.jpg?t=st=1740432406~exp=1740436006~hmac=f5e5b5d3086fc1888996af9d446472dc46ec891247863c74dff38654e4354fed&w=900)"});
  $('.categories-style-1').css("grid-template-columns", "repeat(2,1fr)");
  $('.category-details').css("border-top", "0");
 $('.review-details').css("height", "160px");
